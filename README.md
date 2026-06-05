@@ -9,7 +9,7 @@ the layer *beneath* the unembedding.
 Everything runs on a small, controlled toy "production" model so the ground
 truth is known and each claim can be checked line by line in pure NumPy.
 
-## Scope (read this first)
+## Scope
 
 This is an **expository synthesis plus a concrete identifiability boundary**, not
 a new attack. The last-layer recovery (including recovery up to an orthogonal
