@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/build*.log
+paper/p*.png
+.ipynb_checkpoints/
