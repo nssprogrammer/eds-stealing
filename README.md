@@ -1,6 +1,6 @@
 # eds-stealing
 
-**The Geometry of Last-Layer Model Stealing: Polar Spaces, Regularity, and an Identifiability Wall**
+**The Geometry of Last-Layer Model Stealing**
 
 A small, fully reproducible companion to the note of the same name. It gives a
 geometric / exterior-differential-systems (EDS) reading of the last-layer
